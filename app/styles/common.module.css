@@ -132,6 +132,20 @@
     /* Center text within the form */
 }
 
+.price {
+    font-weight: 700;
+    color: #e50914;
+    font-size: 2rem;
+}
+
+.textt {
+    margin-bottom: 10px;
+}
+
+.description {
+    font-size: 30px !important;
+}
+
 .inputfield {
     padding: 20px;
     margin: 7px;
